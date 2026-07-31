@@ -5,9 +5,6 @@ credits="""
 / /\/\ \ | (__|   <  __/ |_| |
 \/    \/_|\___|_|\_\___|\__, |
                         |___/ 
-ADD ME ON DISCORD  The Young Mickey#0139
-OR JOIN THE DISCORD SERVER https://discord.gg/ZPXrpjUJkC
-IF YOU WANT A BETTER BOT, WE CAN PROVIDE. THIS IS FOR FREE AND NOT MUCH WORK WAS PUT INTO IT
 """
 
 
